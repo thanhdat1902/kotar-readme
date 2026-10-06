@@ -1,1 +1,2 @@
 package A;
+package B;
